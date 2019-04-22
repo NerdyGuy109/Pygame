@@ -1,4 +1,4 @@
-# ARW
+# --- Pygame
 
 Topics include:
 
