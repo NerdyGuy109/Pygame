@@ -1,4 +1,4 @@
-# --- Pygame
+Pygame
 
 Topics include:
 
