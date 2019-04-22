@@ -1,6 +1,4 @@
 # ARW
-# Pygame
-# python with pygame
 
 Topics include:
 
